@@ -1,0 +1,23 @@
+{
+  "global_admins": [
+    "6282392115909"
+  ],
+  "owner": "6282392115909",
+  "settings": {
+    "allow_multiple_admins": true,
+    "admin_permissions": {
+      "manage_groups": true,
+      "manage_users": true,
+      "manage_files": true,
+      "manage_finance": true,
+      "view_logs": true,
+      "manage_settings": true
+    }
+  },
+  "lid_to_phone_mapping": {
+    "172623342395502": "6282392115909"
+  },
+  "phone_to_lid_mapping": {
+    "6282392115909": "172623342395502"
+  }
+}

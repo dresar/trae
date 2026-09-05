@@ -1,0 +1,313 @@
+{
+  "groups": {
+    "120363417994137784@g.us": {
+      "basic": {
+        "language": "id",
+        "timezone": "Asia/Jakarta",
+        "prefix": ".",
+        "description": "",
+        "createdAt": "2025-08-20T05:21:26.377Z",
+        "name": "Unknown Group"
+      },
+      "moderation": {
+        "admins": [
+          "172623342395502@lid"
+        ],
+        "moderators": [],
+        "bannedUsers": {},
+        "mutedUsers": {},
+        "warnings": {},
+        "antiSpam": {
+          "enabled": false,
+          "maxMessages": 5,
+          "timeWindow": 60,
+          "action": "warn"
+        },
+        "wordFilter": {
+          "enabled": false,
+          "blacklist": [],
+          "action": "delete"
+        },
+        "autoDelete": {
+          "enabled": false,
+          "types": [],
+          "delay": 300
+        },
+        "linkControl": {
+          "enabled": false,
+          "whitelist": [],
+          "action": "delete"
+        },
+        "logs": []
+      },
+      "features": {
+        "welcome": {
+          "enabled": true,
+          "message": "Selamat datang {user} di grup {group}! 👋",
+          "media": null,
+          "autoRole": null
+        },
+        "goodbye": {
+          "enabled": true,
+          "message": "Selamat tinggal {user}! 👋"
+        },
+        "rules": {
+          "content": "",
+          "lastUpdated": null,
+          "updatedBy": null
+        },
+        "polls": {
+          "active": {},
+          "history": []
+        },
+        "reminders": {},
+        "todoList": {
+          "tasks": {}
+        },
+        "events": {}
+      },
+      "entertainment": {
+        "games": {
+          "active": {},
+          "leaderboard": {},
+          "settings": {
+            "triviaEnabled": true,
+            "wordGuessEnabled": true,
+            "quizEnabled": true
+          }
+        },
+        "quotes": {
+          "daily": "",
+          "custom": [],
+          "lastUpdated": null
+        },
+        "jokes": {
+          "enabled": true,
+          "custom": []
+        },
+        "achievements": {},
+        "celebrations": {
+          "birthdays": {},
+          "anniversaries": {}
+        },
+        "music": {
+          "enabled": false,
+          "queue": []
+        }
+      },
+      "analytics": {
+        "messages": {
+          "total": 3,
+          "daily": {
+            "2025-08-20": 3
+          },
+          "weekly": {
+            "2025-W34": 3
+          },
+          "monthly": {
+            "2025-08": 3
+          }
+        },
+        "commands": {
+          "total": 2,
+          "daily": {
+            "2025-08-20": 2
+          },
+          "weekly": {
+            "2025-W34": 2
+          },
+          "monthly": {
+            "2025-08": 2
+          }
+        },
+        "activeUsers": {
+          "daily": {
+            "2025-08-20": [
+              "6282392115909"
+            ]
+          },
+          "weekly": {
+            "2025-W34": [
+              "6282392115909"
+            ]
+          },
+          "monthly": {
+            "2025-08": [
+              "6282392115909"
+            ]
+          }
+        },
+        "messageTypes": {
+          "text": 3,
+          "image": 0,
+          "video": 0,
+          "audio": 0,
+          "document": 0,
+          "sticker": 0
+        },
+        "peakHours": {
+          "17": 3
+        },
+        "userStats": {
+          "6282392115909": {
+            "totalMessages": 3,
+            "messageTypes": {
+              "text": 3,
+              "image": 0,
+              "video": 0,
+              "audio": 0,
+              "document": 0,
+              "sticker": 0
+            },
+            "commandsUsed": 2,
+            "firstSeen": "2025-08-20T10:29:47.338Z",
+            "lastSeen": "2025-08-20T10:31:50.001Z",
+            "dailyActivity": {
+              "2025-08-20": 3
+            }
+          }
+        }
+      }
+    }
+  },
+  "templates": {
+    "defaultGroupSettings": {
+      "basic": {
+        "language": "id",
+        "timezone": "Asia/Jakarta",
+        "prefix": ".",
+        "description": "",
+        "createdAt": null
+      },
+      "moderation": {
+        "admins": [],
+        "moderators": [],
+        "bannedUsers": {},
+        "mutedUsers": {},
+        "warnings": {},
+        "antiSpam": {
+          "enabled": false,
+          "maxMessages": 5,
+          "timeWindow": 60,
+          "action": "warn"
+        },
+        "wordFilter": {
+          "enabled": false,
+          "blacklist": [],
+          "action": "delete"
+        },
+        "autoDelete": {
+          "enabled": false,
+          "types": [],
+          "delay": 300
+        },
+        "linkControl": {
+          "enabled": false,
+          "whitelist": [],
+          "action": "delete"
+        },
+        "logs": []
+      },
+      "features": {
+        "welcome": {
+          "enabled": false,
+          "message": "Selamat datang {user} di grup {group}! 👋",
+          "media": null,
+          "autoRole": null
+        },
+        "goodbye": {
+          "enabled": false,
+          "message": "Selamat tinggal {user}! 👋"
+        },
+        "rules": {
+          "content": "",
+          "lastUpdated": null,
+          "updatedBy": null
+        },
+        "polls": {
+          "active": {},
+          "history": []
+        },
+        "reminders": {},
+        "todoList": {
+          "tasks": {}
+        },
+        "events": {}
+      },
+      "entertainment": {
+        "games": {
+          "active": {},
+          "leaderboard": {},
+          "settings": {
+            "triviaEnabled": true,
+            "wordGuessEnabled": true,
+            "quizEnabled": true
+          }
+        },
+        "quotes": {
+          "daily": "",
+          "custom": [],
+          "lastUpdated": null
+        },
+        "jokes": {
+          "enabled": true,
+          "custom": []
+        },
+        "achievements": {},
+        "celebrations": {
+          "birthdays": {},
+          "anniversaries": {}
+        },
+        "music": {
+          "enabled": false,
+          "queue": []
+        }
+      },
+      "analytics": {
+        "messageCount": 0,
+        "commandCount": 0,
+        "activeUsers": {},
+        "dailyStats": {},
+        "weeklyStats": {},
+        "monthlyStats": {}
+      }
+    }
+  },
+  "globalSettings": {
+    "version": "1.0.0",
+    "lastBackup": null,
+    "totalGroups": 1,
+    "totalUsers": 0,
+    "features": {
+      "adminFeatures": [
+        "kick",
+        "ban",
+        "mute",
+        "warn",
+        "promote",
+        "demote"
+      ],
+      "moderationFeatures": [
+        "antiSpam",
+        "wordFilter",
+        "autoDelete",
+        "linkControl"
+      ],
+      "utilityFeatures": [
+        "welcome",
+        "rules",
+        "polls",
+        "reminders",
+        "todoList",
+        "events"
+      ],
+      "entertainmentFeatures": [
+        "games",
+        "quotes",
+        "jokes",
+        "achievements",
+        "celebrations"
+      ]
+    }
+  }
+}

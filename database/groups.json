@@ -1,0 +1,54 @@
+{
+  "groups": {
+    "120363417994137784@g.us": {
+      "id": "120363417994137784@g.us",
+      "name": "AI TES",
+      "joinedAt": "2025-08-20T03:00:36.869Z",
+      "settings": {
+        "financeEnabled": true,
+        "aiEnabled": true,
+        "welcomeMessage": true
+      },
+      "stats": {
+        "messageCount": 0,
+        "commandCount": 0,
+        "tagAllCount": 5,
+        "introductionCount": 1
+      },
+      "lastIntroduction": "2025-08-20T03:37:30.453Z"
+    },
+    "120363424119458583@g.us": {
+      "id": "120363424119458583@g.us",
+      "name": "KK N Pulo Sarok(liburan)",
+      "joinedAt": "2025-08-20T10:39:31.495Z",
+      "settings": {
+        "financeEnabled": true,
+        "aiEnabled": true,
+        "welcomeMessage": true
+      },
+      "stats": {
+        "messageCount": 0,
+        "commandCount": 0,
+        "tagAllCount": 1,
+        "introductionCount": 1
+      },
+      "lastIntroduction": "2025-08-20T10:40:27.802Z"
+    }
+  },
+  "settings": {
+    "autoJoin": false,
+    "welcomeMessage": true,
+    "antiSpam": true,
+    "maxGroups": 50
+  },
+  "stats": {
+    "totalGroups": 0,
+    "activeGroups": 0,
+    "lastUpdated": null
+  },
+  "metadata": {
+    "lastUpdated": "2025-08-20T10:40:27.803Z",
+    "version": "1.0.0",
+    "backupCount": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "users": {},
+  "global_settings": {
+    "default_gemini_key": 1,
+    "default_groq_key": 1
+  },
+  "api_usage_stats": {
+    "gemini": {
+      "1": { "requests": 0, "errors": 0, "last_used": null },
+      "2": { "requests": 0, "errors": 0, "last_used": null },
+      "3": { "requests": 0, "errors": 0, "last_used": null },
+      "4": { "requests": 0, "errors": 0, "last_used": null },
+      "5": { "requests": 0, "errors": 0, "last_used": null }
+    },
+    "groq": {
+      "1": { "requests": 0, "errors": 0, "last_used": null },
+      "2": { "requests": 0, "errors": 0, "last_used": null },
+      "3": { "requests": 0, "errors": 0, "last_used": null },
+      "4": { "requests": 0, "errors": 0, "last_used": null },
+      "5": { "requests": 0, "errors": 0, "last_used": null }
+    }
+  }
+}

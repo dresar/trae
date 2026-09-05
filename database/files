@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "id": "5f9bde13",
+      "name": "file_1755606567304",
+      "originalName": "file_1755606567304",
+      "type": "others",
+      "extension": "",
+      "size": {
+        "low": 72794,
+        "high": 0,
+        "unsigned": true
+      },
+      "mimetype": "image/jpeg",
+      "localPath": "C:\\Users\\User\\Downloads\\bot grup\\uploads\\kkn\\others\\b0c9dfcc_file_1755606567304",
+      "relativePath": "uploads\\kkn\\others\\b0c9dfcc_file_1755606567304",
+      "driveFileId": "18nnstJmV23hr6kNzmuiTjZAtfQnLdjMu",
+      "uploadedBy": "172623342395502@lid",
+      "uploadedAt": "2025-08-19T12:29:33.600Z",
+      "groupId": "120363417994137784@g.us"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-08-19T12:29:33.604Z",
+    "version": "1.0.0",
+    "backupCount": 2
+  }
+}

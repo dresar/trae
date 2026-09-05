@@ -1,0 +1,49 @@
+{
+  "name": "bot-whatsapp-kkn",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk KKN dengan fokus manajemen keuangan dan fitur lengkap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "production": "NODE_ENV=production node index.js",
+    "pm2": "pm2 start ecosystem.config.js",
+    "clean": "npm cache clean --force && rm -rf node_modules",
+    "install-prod": "npm install --production --no-optional",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "kkn",
+    "keuangan",
+    "baileys"
+  ],
+  "author": "KKN Bot Developer",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.6.2",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.1",
+    "file-type": "^18.7.0",
+    "form-data": "^4.0.4",
+    "fs-extra": "^11.2.0",
+    "googleapis": "^126.0.1",
+    "jimp": "^0.16.13",
+    "mime-types": "^2.1.35",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.3",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.32.6",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

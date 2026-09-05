@@ -1,0 +1,59 @@
+{
+  "transactions": [
+    {
+      "id": "e9471cc2",
+      "type": "income",
+      "amount": 100,
+      "description": "dari adit",
+      "category": "Lainnya",
+      "date": "2025-08-20T02:21:35.393Z",
+      "addedBy": "172623342395502@lid",
+      "addedAt": "2025-08-20T02:21:35.393Z"
+    },
+    {
+      "id": "337b76e2",
+      "type": "expense",
+      "amount": 100,
+      "description": "untuk makan",
+      "category": "Lainnya",
+      "date": "2025-08-20T02:22:23.960Z",
+      "addedBy": "172623342395502@lid",
+      "addedAt": "2025-08-20T02:22:23.960Z"
+    }
+  ],
+  "balance": 0,
+  "summary": {
+    "totalIncome": 100,
+    "totalExpense": 100,
+    "transactionCount": 2,
+    "lastUpdated": "2025-08-20T02:22:23.960Z"
+  },
+  "categories": {
+    "income": [
+      "Donasi",
+      "Iuran",
+      "Sponsor",
+      "Penjualan",
+      "Lainnya"
+    ],
+    "expense": [
+      "Konsumsi",
+      "Transport",
+      "ATK",
+      "Dokumentasi",
+      "Acara",
+      "Lainnya"
+    ]
+  },
+  "settings": {
+    "currency": "IDR",
+    "dateFormat": "DD/MM/YYYY",
+    "autoBackup": true,
+    "notifications": true
+  },
+  "metadata": {
+    "lastUpdated": "2025-08-20T06:48:17.006Z",
+    "version": "1.0.0",
+    "backupCount": 5
+  }
+}

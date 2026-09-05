@@ -1,0 +1,33 @@
+{
+  "files": [],
+  "folders": [],
+  "driveFiles": [],
+  "settings": {
+    "maxFileSize": "50MB",
+    "allowedTypes": [
+      "image",
+      "video",
+      "audio",
+      "document",
+      "archive"
+    ],
+    "autoUploadToDrive": true,
+    "compressionEnabled": true
+  },
+  "stats": {
+    "totalFiles": 0,
+    "totalSize": 0,
+    "driveUsage": 0,
+    "lastCleanup": null
+  },
+  "quota": {
+    "used": 0,
+    "limit": 15000000000,
+    "remaining": 15000000000
+  },
+  "metadata": {
+    "lastUpdated": "2025-08-20T06:48:17.014Z",
+    "version": "1.0.0",
+    "backupCount": 5
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "users": {
+    "120363417994137784@g.us": {
+      "id": "120363417994137784@g.us",
+      "name": "Unknown",
+      "joinedAt": "2025-08-19T11:32:27.080Z",
+      "commandCount": 3,
+      "lastSeen": "2025-08-19T14:17:50.190Z",
+      "isAdmin": false
+    },
+    "172623342395502@lid": {
+      "id": "172623342395502@lid",
+      "name": "ARIF",
+      "joinedAt": "2025-08-19T11:32:28.320Z",
+      "commandCount": 55,
+      "lastSeen": "2025-08-19T14:54:41.274Z",
+      "isAdmin": false
+    },
+    "172623342395502": {
+      "id": "172623342395502",
+      "name": "ARIF",
+      "joinedAt": "2025-08-19T14:55:16.770Z",
+      "commandCount": 23,
+      "lastSeen": "2025-08-20T03:45:28.190Z",
+      "isAdmin": false
+    },
+    "6282392115909": {
+      "id": "6282392115909",
+      "name": "ARIF",
+      "joinedAt": "2025-08-20T02:07:18.882Z",
+      "commandCount": 36,
+      "lastSeen": "2025-08-20T10:40:26.834Z",
+      "isAdmin": true
+    }
+  },
+  "admins": [],
+  "settings": {
+    "autoRegister": true,
+    "defaultRole": "member",
+    "maxUsers": 1000
+  },
+  "stats": {
+    "totalUsers": 0,
+    "activeUsers": 0,
+    "lastUpdated": null
+  },
+  "metadata": {
+    "lastUpdated": "2025-08-20T10:40:26.836Z",
+    "version": "1.0.0",
+    "backupCount": 4
+  }
+}
